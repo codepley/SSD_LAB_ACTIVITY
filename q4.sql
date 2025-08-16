@@ -1,3 +1,5 @@
+USE Assignment;
+
 DELIMITER $$
 
 CREATE PROCEDURE SendWatchTimeReport()

@@ -37,6 +37,7 @@ Assumptions:
 3. WatchTime is stored in minutes.
 4. A subscriber may exist without any watch history.
 5. Sample data is included in db_setup.sql for testing.
+6. I've assumed the Table Data to be present in the 'Assignment' Database
 
 Files Included:
 -------------------------------------------------------------------
